@@ -1,4 +1,4 @@
-# Emmet plugin for TextMate editor Mac OS X El Capitan
+# Emmet plugin for TextMate2 editor Mac OS X El Capitan
 
 ## How to install ##
 
