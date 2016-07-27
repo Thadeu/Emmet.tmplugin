@@ -2,6 +2,8 @@
 
 No Crash for MacOS X 10.X or others
 
+![El capitan](https://cloud.githubusercontent.com/assets/77889/17176701/507a5d62-53e4-11e6-8400-6ef91b88303a.png)
+
 ## How to install ##
 
 1. [Download](https://github.com/Thadeu/Emmet.tmplugin/blob/master/Emmet.tmplugin.zip) plugin.
