@@ -1,5 +1,7 @@
 # Emmet plugin for TextMate2 editor Mac OS X El Capitan
 
+No Crash for MacOS X 10.X or others
+
 ## How to install ##
 
 1. [Download](https://github.com/Thadeu/Emmet.tmplugin/blob/master/Emmet.tmplugin.zip) plugin.
